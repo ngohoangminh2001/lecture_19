@@ -11,4 +11,4 @@ if __name__ == '__main__':
     elif (op == 2):
         print('a * b = ', mul(a, b))
     elif (op == 3):
-        print('a / b = ', div(a, b), '.')
+        print('a / b = ', div(a, b))
